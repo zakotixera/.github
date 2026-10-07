@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/zakotixera-main.min.png" alt="ZakoTixera" width="180" />
+  <img src="../assets/zakotixera-main.min.png" alt="ZakoTixera" width="180" />
 
   <h1>ZakoTixera</h1>
 
